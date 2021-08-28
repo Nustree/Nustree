@@ -1,8 +1,17 @@
 ## Who are we?
 We are a small group of a students organization serving as the warehouse for code for modules that are offered at NUST, and as well as a platform for the budding coders to get familiar with Git and Github.
 
+## Courses available
+
+### Part 1.2
+| Course Code | Course |
+| ----------- | ----------- |
+| SCS 2103 | [Data Structures and Algorithms](https://github.com/Nustree/Data-Structures-And-Algorithms-SCS-2103) |
+
+<br/>
+
 ## Contributing
-See how to contribute [here](https://github.com/Nustree/READ-ME-FIRST/blob/main/Contributing.md)
+See how to contribute [here](https://github.com/Nustree/READ-ME-FIRST/blob/main/Contributing.md) for course files and exam papers.
 
 <br/>
 
