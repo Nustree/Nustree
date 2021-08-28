@@ -2,7 +2,7 @@
 We are a small group of a students organization serving as the warehouse for code for modules that are offered at NUST, and as well as a platform for the budding coders to get familiar with Git and Github.
 
 ## Contributing
-See how to contribute [here]()
+See how to contribute [here](https://github.com/Nustree/READ-ME-FIRST/blob/main/Contributing.md)
 
 <br/>
 
